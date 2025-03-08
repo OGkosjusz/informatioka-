@@ -32,7 +32,6 @@ int main() {
             return 1;
     }
 
-    // Wyświetlenie wyniku
     cout << "Oplata za parkowanie: " << oplata << " zl" << endl;
 
     return 0;
