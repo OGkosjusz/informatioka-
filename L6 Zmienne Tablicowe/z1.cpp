@@ -7,7 +7,7 @@ int main() {
     double srednia;
 
     for (int i = 0; i < 5; i++) {
-        cout << "Podaj liczbe nr " << i + 1 << ": ";
+        cout << "Podaj liczbe " << i + 1 << ": ";
         cin >> liczby[i];
         suma += liczby[i];
     }
